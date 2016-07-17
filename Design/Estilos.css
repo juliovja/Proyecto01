@@ -1,0 +1,19 @@
+h1{
+	color:#323133;
+	font-family:Helvetica Neue, Arial, Helvetica, sans-serif;
+	letter-spacing: -1px;
+	text-decoration:none;
+	text-shadow:1px 1px #fff,0 0 #0e0e0e, 5px 4px 3px #e3e3e3;
+	text-transform:none;
+	word-spacing:-2px;
+}
+
+#contenido{
+	float: left;/*POSICION DEL DIV*/
+	margin-right: 10px;
+	background:#04779B;
+	font-family: Calibri;
+	font-size: 20px;
+	width: 200px;
+	height: 500px;
+}#43B0CB
